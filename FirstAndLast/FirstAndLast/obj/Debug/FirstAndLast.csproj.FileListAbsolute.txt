@@ -1,0 +1,7 @@
+c:\users\theto\source\repos\FirstAndLast\FirstAndLast\bin\Debug\FirstAndLast.exe.config
+c:\users\theto\source\repos\FirstAndLast\FirstAndLast\bin\Debug\FirstAndLast.exe
+c:\users\theto\source\repos\FirstAndLast\FirstAndLast\bin\Debug\FirstAndLast.pdb
+c:\users\theto\source\repos\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.csproj.CoreCompileInputs.cache
+c:\users\theto\source\repos\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.exe
+c:\users\theto\source\repos\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.pdb
+C:\Users\TheTo\source\repos\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\TheTo\source\repos\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe.config
+C:\Users\TheTo\source\repos\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe
+C:\Users\TheTo\source\repos\ClassPractice\ClassPractice\bin\Debug\ClassPractice.pdb
+C:\Users\TheTo\source\repos\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\source\repos\ClassPractice\ClassPractice\obj\Debug\ClassPractice.exe
+C:\Users\TheTo\source\repos\ClassPractice\ClassPractice\obj\Debug\ClassPractice.pdb
+C:\Users\TheTo\source\repos\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\TheTo\OneDrive\Desktop\Student Projects\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\TheTo\OneDrive\Desktop\Student Projects\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\TheTo\OneDrive\Desktop\Student Projects\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\TheTo\OneDrive\Desktop\Student Projects\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\TheTo\OneDrive\Desktop\Student Projects\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\OneDrive\Desktop\Student Projects\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\TheTo\OneDrive\Desktop\Student Projects\Enums\Enums\obj\Debug\Enums.pdb
